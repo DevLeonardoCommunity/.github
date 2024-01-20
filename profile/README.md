@@ -1,3 +1,5 @@
+<div align="right"><a href="https://github.com/DevLeonardoCommunity/community/issues/new" /><img src="./join-button.png" height="45" /></a></div>
+
 <h1 align="center">Learning Web Development through Open Source</h1>
 
 The headline above is our mission, and the reason why this community exists.
