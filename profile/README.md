@@ -1,4 +1,4 @@
-<div align="right"><a href="https://github.com/DevLeonardoCommunity/community/issues/new" /><img src="https://raw.githubusercontent.com/DevLeonardoCommunity/.github/main/profile/join-button.png" height="45" /></a></div>
+<div align="right"><a href="https://github.com/DevLeonardoCommunity/community/issues/new?assignees=&labels=invite-request&projects=&template=invite-request.yml&title=Invite+Request+for+%3Cusername%3E" /><img src="https://raw.githubusercontent.com/DevLeonardoCommunity/.github/main/profile/join-button.png" height="45" /></a></div>
 
 <h1 align="center">Learning Web Development through Open Source</h1>
 
