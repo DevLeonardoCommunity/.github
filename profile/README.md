@@ -20,6 +20,12 @@ We're currently building two projects:
 
 Do you have a cool idea for a new project for the community? You can suggest one by [creating an issue here](https://github.com/DevLeonardoCommunity/community/issues/new)!
 
+### Community Projects List
+
+We're also hosting the [awesome-community-projects](https://github.com/DevLeonardoCommunity/awesome-community-projects) list. If you're looking for welcoming projects to learn something new, have a look!
+
+Are you building in public a project to learn a new technology or test a framework or library and you're happy to accept contributions? Feel free submit a PR to add your project to the list!
+
 ## Join us
 
 There are no particular requirements to join, everyone is welcome! Just let me know your GitHub handle (by [raising an issue](https://github.com/DevLeonardoCommunity/community/issues/new) or for example on [Discord](https://discord.gg/wp26Y8DtQu)) and I'll send you an invite :)
