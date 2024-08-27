@@ -12,8 +12,9 @@ Everyone is welcome to participate in the projects and join the community!
 
 ## Projects
 
-We're currently building two projects:
-- [GitHub Stats](https://github.com/DevLeonardoCommunity/github-stats): Built in Nextjs is a tool to visualize some of your GitHub stats based on your contributions.
+We're currently building three projects:
+- [Myntenance](https://github.com/Balastrong/myntenance): Built in NextJs (App Router), ensures your side projects are not left behind by keeping tracks of your tasks and notes.
+- [GitHub Stats](https://github.com/DevLeonardoCommunity/github-stats): Built in Nextjs (Pages Router), is a tool to visualize some of your GitHub stats based on your contributions.
 - [Billsplit](https://github.com/DevLeonardoCommunity/billsplit): Built in Qwik, is a tool helping friends sharing equally their expenses for travels or parties.
 
 ### Suggest a new project
